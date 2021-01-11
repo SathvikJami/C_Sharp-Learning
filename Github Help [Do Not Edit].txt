@@ -2,7 +2,7 @@ Github Help
 
 I will be teaching you how to add files to a github repository (create a github account for this). I will not be teaching you about merging, pull requests, and releases, because we will (for simplicity) be committing everything to the master branch of the repo. 
 
-To commit a file, drag the file into the repository's file list, let it download, then scroll down and hit the green button ("commit changes"), which will push the changes. 
+To commit a file, drag the file into the repository's file list, let it download, then scroll down and hit the green button ("commit changes"), which will push the changes. (It is highly recommended that you write a description of what you just uploaded under the "Commit Changes" section. The small box on top can be your short description, such as "Added New Game Engine File", and the bigger box can be a more detailed lengthy description, such as "Added New Game Engine File That Automatically Creates RNG Movement For Mobs". Again, this is not necessary but highly recommended!)
 
 And that's it!
 
